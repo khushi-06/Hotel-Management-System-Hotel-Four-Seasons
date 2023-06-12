@@ -135,10 +135,7 @@ ul li a:hover{
     letter-spacing: 2px;
     line-height: 100px;
     padding: 5px;
-    /* text gradiant */
-    background: -webkit-linear-gradient(317deg, rgba(0, 60, 255, 0.81) 0%, rgb(255 0 123) 70%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+
 }
 
 /* secondsection */
@@ -276,7 +273,7 @@ font-size: 30px;
     background-size: cover;
 }
 .box:nth-child(2){
-    background-image: url(../image/spa.jpg);
+    background-image: url(../image/spa.jpeg);
     background-size: cover;
 }
 .box:nth-child(3){
@@ -295,7 +292,7 @@ font-size: 30px;
 #contactus{
     height: 70px;
     width: 100%;
-    background-color: black;
+    background-color: #562932;
     display: flex;
     justify-content: space-between;
     align-items: center;
